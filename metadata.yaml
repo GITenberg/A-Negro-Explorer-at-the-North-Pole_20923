@@ -6,14 +6,14 @@ contributor:
     aliases:
     - Peary, R. E. (Robert Edwin)
     - Peary, Robert Edwin
-    birthdate: &id001 1856
+    birthdate: 1856
     deathdate: 1920
     gutenberg_agent_id: '8383'
     url: http://www.gutenberg.org/2009/agents/8383
     wikipedia: http://en.wikipedia.org/wiki/Robert_Peary
   - agent_name: Washington, Booker T.
     alias: Washington, Booker Taliaferro
-    birthdate: *id001
+    birthdate: 1856
     deathdate: 1915
     gutenberg_agent_id: '880'
     url: http://www.gutenberg.org/2009/agents/880
@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '9608'
     url: http://www.gutenberg.org/2009/agents/9608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20923#A-Negro-Explorer-at-the-North-Pole
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2007-03-28'
 gutenberg_type: Text
